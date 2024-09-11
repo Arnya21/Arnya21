@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Arnya21
 - 👀 I’m interested in developing applications
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning reactJs
+- 
 - 💞️ I’m looking to collaborate on new ui/ux development project 
 - 📫 You can reach me at instagram-whois.arnya
 
